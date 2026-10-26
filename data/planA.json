@@ -1,0 +1,28 @@
+{
+  "id": "planA",
+  "name": "Plano A",
+  "focus": "Foco Apartamento",
+  "salary": {
+    "gross": 0,
+    "net": 0
+  },
+  "openingBalance": 0,
+  "accumulate": true,
+  "startMonth": "2026-11",
+  "monthsCount": 14,
+  "incomes": [],
+  "expenses": [],
+  "reserveBuckets": [
+    {
+      "id": "principal",
+      "name": "Reserva Principal",
+      "icon": "🛡️",
+      "isDefault": true,
+      "target": null
+    }
+  ],
+  "transfers": [],
+  "closedMonths": [],
+  "paid": {},
+  "overrides": {}
+}
